@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejayjayjayjayjay" alt="ejayjayjayjayjay" /></a> </p>
 
-- 🔭 I’m currently working on [Unitop Metalwire](https://unitop.fun/)
+- 🔭 I’m currently working on [https://www.theodinproject.com]
 
 - 🌱 I’m currently learning **MERN STACK**
 
