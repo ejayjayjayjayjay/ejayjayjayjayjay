@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Josell Vibar</h1>
 <h3 align="center">A passionate Web Developer from Philippines, dedicated to creating beautiful and functional websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejayjayjayjayjay&label=Profile%20views&color=0e75b6&style=flat" alt="ejayjayjayjayjay" /> </p>
