@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejayjayjayjayjay" alt="ejayjayjayjayjay" /></a> </p>
 
-- 🔭 I’m currently working on [https://www.theodinproject.com]
+- 🔭 I’m currently working on [Newspaper Project]
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Python and Django**
 
 - 👨‍💻 All of my projects are available at [http://josellvibarportfolio.000webhostapp.com/](http://josellvibarportfolio.000webhostapp.com/)
 
-- 💬 Ask me about **PHP,LARAVEL**
+- 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **vibarjosell@gmail.com**
 
