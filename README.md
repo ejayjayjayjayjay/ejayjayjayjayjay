@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [http://josellvibarportfolio.000webhostapp.com/](http://josellvibarportfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-josell.netlify.app/](https://portfolio-josell.netlify.app/)
 
 - 💬 Ask me about **Javascript**
 
